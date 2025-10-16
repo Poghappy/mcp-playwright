@@ -30,10 +30,10 @@
     "@modelcontextprotocol/sdk": "1.11.1",
     "@playwright/browser-chromium": "1.53.1",
     "@playwright/browser-firefox": "1.53.1",
-    "@playwright/browser-webkit": "1.53.1",
-    "@playwright/test": "^1.53.1",
+    "@playwright/browser-webkit": "1.55.1",
+    "@playwright/test": "^1.55.1",
     "mcp-evals": "^1.0.18",
-    "playwright": "1.53.1",
+    "playwright": "1.55.1",
     "uuid": "11.1.0"
   },
   "keywords": [
