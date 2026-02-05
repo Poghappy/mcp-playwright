@@ -27,7 +27,7 @@
     "url": "https://github.com/executeautomation/mcp-playwright.git"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "1.11.1",
+    "@modelcontextprotocol/sdk": "1.26.0",
     "@playwright/browser-chromium": "1.53.1",
     "@playwright/browser-firefox": "1.53.1",
     "@playwright/browser-webkit": "1.53.1",
